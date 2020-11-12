@@ -1,0 +1,13 @@
+Go to github – under code, click clone
+IntelliJ, create a new project, paste in your SSH address
+->	Commit as you usually do
+->  git add .
+->	git status
+->	git commit –m “I copied this straight from the cheat sheet ”
+
+git branch new-branch-name
+->	new-branch-name should be what you want the new branch to be called – probably "your-name"
+
+git checkout -b new-branch-name
+
+git push origin new-branch-name
