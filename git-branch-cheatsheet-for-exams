@@ -1,5 +1,5 @@
 Go to github – under code, click clone
-IntelliJ, create a new project, paste in your SSH address
+In IntelliJ, when you create a new project, select “File -> New -> Project from Version Control” and paste in your SSH address
 ->	Commit as you usually do
 ->  git add .
 ->	git status
