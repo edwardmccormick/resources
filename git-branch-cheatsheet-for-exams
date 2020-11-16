@@ -8,6 +8,6 @@ In IntelliJ, when you create a new project, select “File -> New -> Project fro
 git branch new-branch-name
 ->	new-branch-name should be what you want the new branch to be called – probably "your-name"
 
-git checkout -b new-branch-name
+git checkout new-branch-name
 
 git push origin new-branch-name
