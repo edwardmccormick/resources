@@ -1,0 +1,21 @@
+mistakes I made:
+
+misplaced <div> not showing content on the tab
+
+copy and paste led to MULTIPLE 'active' tabs (I also did it on some of the form elements but it wasn't nearly as devestating from a design perspective)
+
+misunderstanding tabs - started off with an unordered list, switched to a div later for clarity
+
+datatoggle! was a genuine aha <i class="far fa-lightbulb"></i> moment
+
+things that made me most proud:
+getting all the buttons to cycle correctly
+putting the first tab (size and crust) to width 100 because at width 75 it looked lousy on smaller screens
+the nav bar and jumbotron look *almost* exactly like the example, and work the way they're supposed to
+
+
+misses:
+I sort of wanted to put all of the forms together and actually practice 'submitting' everything - alas I wasn't really focused on it while building it and it felt like it was going to be kind of a long pull to 'normalize' it all
+I couldn't get the password show/hide button to work and had to scrap it
+I also wanted to do a 'better' validation on the form and basically ran out of time while simultaneously reaching my technical limits
+didn't comment basically anything (SHAME SHAME SHAME)
