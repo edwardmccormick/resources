@@ -2,11 +2,13 @@ Notes from Pairs Programming Codeup Design
 
 hardest parts:
 
-1) menu bar - the hype was real. We ended up with two different menu bars, three icons, and two flex boxes - and I think we would've gotten it easier if we hadn't tried to make the Bootsrap grid work and jumped straight to flexboxes - it solved several issues and was easy (enough) to implement
+1) menu bar - the hype was real. We ended up with two different menu bars, three icons, and two flex boxes - and I think we would've gotten it easier if we hadn't tried to make the Bootsrap grid work and jumped straight to flexboxes - it solved several issues and was easy (enough) to implement. One the smaller things that really got us caught was the bar not reaching the edges of the page. adding negative margins cleared the negative space.
 
 2) the quad pictures at the bottom - turns out that if you have different pictures at different aspect ratios, they won't be identically sized if everything moves relatively. Solution: fix their max height-width so they are all the same size, if a bit distorted.
 
-3) timeline - We finished at almost exactly 4p on Friday and it felt super tight. There were definitely aspects that I think we would've gotten 'more right' or better if we'd hadn't felt a bit crunched. That said - was kind of nice to have neither an excess of work or time on the project
+3) Attention to detail was key to this and every project. We spent about 10-15 minutes adjusting the background colors for the page because the dropper in the inspector did not match the colors that showed on screen.
+
+4) timeline - We finished at almost exactly 4p on Friday and it felt super tight. There were definitely aspects that I think we would've gotten 'more right' or better if we'd hadn't felt a bit crunched. That said - was kind of nice to have neither an excess of work or time on the project
 
 Good stuff:
 
