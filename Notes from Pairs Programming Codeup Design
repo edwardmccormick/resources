@@ -1,0 +1,20 @@
+Notes from Pairs Programming Codeup Design
+
+hardest parts:
+
+1) menu bar - the hype was real. We ended up with two different menu bars, three icons, and two flex boxes - and I think we would've gotten it easier if we hadn't tried to make the Bootsrap grid work and jumped straight to flexboxes - it solved several issues and was easy (enough) to implement
+
+2) the quad pictures at the bottom - turns out that if you have different pictures at different aspect ratios, they won't be identically sized if everything moves relatively. Solution: fix their max height-width so they are all the same size, if a bit distorted.
+
+3) timeline - We finished at almost exactly 4p on Friday and it felt super tight. There were definitely aspects that I think we would've gotten 'more right' or better if we'd hadn't felt a bit crunched. That said - was kind of nice to have neither an excess of work or time on the project
+
+Good stuff:
+
+1) pairs programming was a lot of fun - our skills were complementary and worked well together. Ted is more of a 'throw it at the wall and see if it sticks' and spent a lot of time fidgeting with bootstrap classes but Natalie was a great 10,000 foot, big picture operator and had some nice insights about the functionality that pointed the way out of the forrest. Proof that there is more to pairs programming than technical skill - we were better together than the sum of our parts
+
+2) We ended up with a very responsive webpage that is at least 95% of the wireframes, and both looks good and functions the way it is supposed to.
+
+3) We only needed about 160 lines of CSS - and almost all of that was for 'off-menu' colors, fonts, etc. Very little 'functional' CSS - the menu bars flexboxed are about it, and they still have Bootstrap components. If the point was to use Bootstrap - we used Bootstrap.
+
+Wish list:
+Would've been nice to animate the buttons, set some links, maybe implement (what look like they are supposed to be) dropdowns on some of the menus. The time limitation really comes through here. Likewise - it would've be nice to really work on our code readability - there are definitely parts (menus) that are a little sloppy. Again, part of it was, by the time we found workable solutions and tweaked and styled everything we just didn't have time to go through and work on readability.
