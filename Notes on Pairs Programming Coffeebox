@@ -1,0 +1,25 @@
+Notes on Pairs Programming Coffeebox
+
+1) Hardest thing was, I think by far, the Search function
+2) second hardest thing was definitely linking the search and selection buttons, but that was awfully rewarding. Made it feel like a real site.
+3) We probably spent longer than we ought to futzing with BS in the beginning - but all of the functional pieces are in BS (no CSS except background images and custom colors).
+4) Proud of how responsive it is - looks pretty good (and very functional) at both huge desktop and mobile sizes
+5) Kind of proud of the CSS styling (top background is darkened, middle background is lightened)
+
+Wish we couldas - in the mobile version, I wish that I would have been able to control the search and add forms a little more - we ended up plopping them at the end of the document but I kind of wanted to split them up - search at the top, coffees in the middle, add a coffee at the bottom. There's some pretty good UX reasons to keep it the way it is, but also because of the way we had dived the page it was going to be extraordinarily tough to do.
+
+Probably should've commented our code a tad better.
+
+
+Things we didn't get - honestly not very much. We had everything functional completed by COB on Monday so really we were sitting in the catbird seat and spent day 2 making it pretty and responsive. Responsive took a lot longer than pretty.
+
+
+
+
+
+From Chris Cyr to Everyone:  03:51 PM
+chriscyr@codeup.com
+From Ry Ance Sutton to Everyone:  03:51 PM
+ry.sutton@codeup.com
+From Jasmine Rivera to Everyone:  03:52 PM
+Jasmine.rivera@codeup.com
