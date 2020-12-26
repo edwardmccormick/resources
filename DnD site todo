@@ -25,3 +25,5 @@ Character to input - should:
 -show you the attribute bonuses/skill from applying those attributes
 -allow you to select race and apply those modifiers
 -hook in to allow you to select proficiencies/background/equipment
+
+Why are the tabs no longer working? And should I revert to the version that *was* working?
