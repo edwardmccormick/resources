@@ -1,7 +1,7 @@
 Three main choices to start:
 1) A have a character to input
 Character to input - should:
--Allow you to input character stats
+-Allow you to input character stats (done!)
 -Allow you to see modifiers from character attributes
 -Allow you to select character proficiencies in line with character class(es)
     -Eventually allow for multi-class characters
@@ -12,7 +12,7 @@ Character to input - should:
 2) I need to generate a character (point buy)
 
 -Should guide you through the point buy process
--Tell you how many points you have left/how many you have used
+-Tell you how many points you have left/how many you have used (done!)
 -tell you what the focuses for your class should be
 -allow you to select race and apply those modifiers
 -hook in to allow you to select proficiencies/background/equipment
@@ -21,11 +21,11 @@ Character to input - should:
 
 -Should guide you through the rolling process/explain the different methods
 -Give you a ranking on how rare your character is
--Give you an array that you can rearrange within the different attributes
+-Give you an array that you can rearrange within the different attributes (done!)
 -show you the attribute bonuses/skill from applying those attributes
 -allow you to select race and apply those modifiers
 -hook in to allow you to select proficiencies/background/equipment
 
-Why are the tabs no longer working? And should I revert to the version that *was* working?
+Why are the tabs no longer working? And should I revert to the version that *was* working? Extra div discovered and destroyed - booyah!
 
-I should totally do it all in Tailwind just as an exercise. Eff yeah!
+I should totally do it all in Tailwind just as an exercise. Eff yeah! (except tailwind literally killed my computer :-/)
