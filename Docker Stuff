@@ -1,3 +1,7 @@
 http://localhost/tutorial/
 
 https://stackoverflow.com/questions/48066994/docker-no-matching-manifest-for-windows-amd64-in-the-manifest-list-entries
+
+https://docs.docker.com/compose/gettingstarted/
+
+No MySQL for M1 - maybe I should switch to PostgreSQL?
